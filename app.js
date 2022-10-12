@@ -1,4 +1,4 @@
-// google keep clone
+// google keep -- clone
 
 class App {
     constructor() {
