@@ -1,4 +1,4 @@
-
+// google keep clone
 class App {
     constructor() {
         this.notes = JSON.parse(localStorage.getItem('notes')) || [];
